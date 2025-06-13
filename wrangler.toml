@@ -1,0 +1,16 @@
+name = "cloudnav"
+main = "functions/api/index.ts"
+compatibility_date = "2023-10-30"
+
+[site]
+bucket = "./dist"
+
+[[kv_namespaces]]
+binding = "NAV_KV"
+id = "your-kv-id-here"
+preview_id = "your-preview-kv-id-here"
+
+[[d1_databases]]
+binding = "NAV_DB"
+database_name = "nav-db"
+database_id = "your-database-id-here" 
