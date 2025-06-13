@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "deploy": "wrangler publish",
+    "deploy": "wrangler deploy",
     "dev:worker": "wrangler dev",
     "format": "prettier --write \"src/**/*.{ts,tsx}\"",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
@@ -41,6 +41,6 @@
     "tailwindcss": "^3.3.5",
     "typescript": "^5.0.2",
     "vite": "^4.4.5",
-    "wrangler": "^3.15.0"
+    "wrangler": "^4.20.0"
   }
-} 
+}

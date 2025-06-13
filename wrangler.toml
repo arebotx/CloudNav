@@ -7,10 +7,10 @@ bucket = "./dist"
 
 [[kv_namespaces]]
 binding = "NAV_KV"
-id = "your-kv-id-here"
-preview_id = "your-preview-kv-id-here"
+id = "a8ed372cf33a4921bf440ca8802a5703"
+preview_id = "13807d94d5cb4dcf97207fde254693f9"
 
 [[d1_databases]]
 binding = "NAV_DB"
 database_name = "nav-db"
-database_id = "your-database-id-here" 
+database_id = "5a62656b-4293-4d1b-802a-f7f4913e717b"
