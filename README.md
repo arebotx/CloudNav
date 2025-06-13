@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CloudNav云导航
 
 一个基于Cloudflare Workers构建的现代化网站导航工具，帮助您整理和快速访问常用网站。
@@ -71,3 +72,6 @@ cloudnav/
 ## 许可证
 
 MIT 
+=======
+# CloudNav
+>>>>>>> be8a8b753b39c192b9693f93926d10483d4074fe
